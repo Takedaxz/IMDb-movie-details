@@ -1,1 +1,2 @@
-*.code-workspace
+# Ignore the Python-for-Data-Science.code-workspace file
+Python-for-Data-Science.code-workspace
