@@ -35,4 +35,3 @@ This project aims to fetch data from IMDb using the IMDbPY library and scraping 
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions, please open an issue or submit a pull request.
-\
